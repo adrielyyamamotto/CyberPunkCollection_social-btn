@@ -1,0 +1,193 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    background-image: url(img/skyscrapers.jpg);
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    padding: 7px 10px;
+    border-radius: 15px;
+    text-align: center;
+    width: 40%;
+    margin-right: auto;
+    margin-left: auto;
+    color: #ffffff;
+    text-shadow: 2px 2px 4px #7700a6;
+}
+
+.container1 {
+    width: 40%;
+    margin: auto;
+    margin-top: 40px;
+    background-color: #29132e;
+    text-align: center;
+    padding: 20px 15px;
+    border-radius: 15px;
+    box-shadow: 0 1px 15px;
+}
+
+.g1 {
+    font-size: 18px;
+    font-variant: small-caps;
+    font-weight: bolder;
+    background-color:#de004e23;
+    padding: 7px 10px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    width: 90%;
+    margin: auto;
+    width: fit-content;
+    border-radius: 15px;
+    color: white;
+    box-shadow: 0 0.5px 7px #de004e;
+}
+
+.icon {
+    display:inline-block;
+    margin: 10px;
+}
+
+.icon i {
+    background-color: #de004e;
+    border-radius: 100%;
+    box-shadow: 0 0.5px 7px #de004e;
+    padding: 7px;
+}
+
+.icon a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.container2 {
+    margin-top: 20px;
+}
+
+.icon:hover {
+    scale: 1.8;
+}
+
+/*Painel 2*/
+
+.container1g2 {
+    width: 40%;
+    margin: auto;
+    margin-top: 20px;
+    background-color: #ff124f;
+    text-align: center;
+    padding: 20px 15px;
+    border-radius: 15px;
+    box-shadow: 0 1px 15px;
+}
+
+.g2 {
+    font-size: 18px;
+    font-variant: small-caps;
+    font-weight: bolder;
+    background-color: #ffffff;
+    padding: 7px 10px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    width: 90%;
+    margin: auto;
+    width: fit-content;
+    border-radius: 15px;
+    color: #120458;
+    box-shadow: 0 5px 15px #ff6e27;
+}
+
+.icong2 {
+    display:inline-block;
+    margin: 10px;
+}
+
+.icong2 i {
+    background-color: #120458;
+    border-radius: 100%;
+    padding: 7px;
+    box-shadow: 0 2px 7px #7a04eb;
+}
+
+.icong2 a {
+    text-decoration: none;
+    color: white;
+}
+
+.container2g2 {
+    margin-top: 20px;
+}
+
+.icong2:hover {
+    scale: 1.8;
+}
+
+/*Painel 3*/
+
+.container1g3 {
+    width: 40%;
+    margin: auto;
+    margin-top: 20px;
+    background-color: #defe47;
+    text-align: center;
+    padding: 20px 15px;
+    border-radius: 15px;
+    box-shadow: 0 1px 15px;
+}
+
+.g3 {
+    font-size: 18px;
+    font-variant: small-caps;
+    font-weight: bolder;
+    background-color: #7700a6;
+    padding: 7px 10px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    width: 90%;
+    margin: auto;
+    width: fit-content;
+    border-radius: 15px;
+    color: #00b3fe;
+    box-shadow: 0 0 25px #ff6e27;
+}
+
+.icong3 {
+    display:inline-block;
+    margin: 10px;
+}
+
+.icong3 i {
+    background-color: #00b3fe;
+    border-radius: 100%;
+    padding: 7px;
+    box-shadow: 0 2px 7px #7a04eb;
+}
+
+.icong3 a {
+    text-decoration: none;
+    color: white;
+}
+
+.container2g3 {
+    margin-top: 20px;
+}
+
+.icong3:hover {
+    scale: 1.8;
+}
+
+footer {
+    font-size: 12px;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 25px;
+}
+
+footer a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bolder;
+    text-shadow: 1px 1px #de004e;
+}
